@@ -1,0 +1,4 @@
+# Configure service that is using your Dockerfile
+# Mounts fat-jar
+# use appropriate command to start the app (spark-submit)
+version: 3
